@@ -1,6 +1,7 @@
 ---
-layout:slide
-title:"Welcome to our second slide!"
+layout:design
+title:"Welcome to our third slide!"
 ---
-"Float like a butterfly,sting like a bee"-Muhammad Ali
-Use the left arrow to go back!
+"Its easy if you try"
+Use the right arrow to go back!
+"thank you"
